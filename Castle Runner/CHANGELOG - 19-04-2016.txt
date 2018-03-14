@@ -1,0 +1,18 @@
+Added various sound effects (all of the sounds are public domain licence. They dont require credit)
+
+Added a pause button
+	- 	Pause button is broken, it has so little progression because of the problem.
+		Pressing the pause button causes the char to jump because its a screen press. 
+		I cant work out how to stop this
+
+The player dies when getting stuck or falls
+
+Made some small conditional changes here and there
+
+It now works on phone again
+
+Sorted the layers for the main menu for phone 
+
+Swapped around the swipe direction for phone menus 
+
+Messed around with some GUI scaling (to no prevail, its still screen tempremental) 
